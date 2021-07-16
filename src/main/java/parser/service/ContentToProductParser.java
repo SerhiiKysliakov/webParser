@@ -1,10 +1,11 @@
-package service;
+package parser.service;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import model.Product;
+import parser.model.Product;
+
 
 public class ContentToProductParser {
     public Product[] contentToProductParser(String content) {

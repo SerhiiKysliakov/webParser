@@ -1,8 +1,10 @@
-import model.Product;
-import service.ContentLoader;
-import service.ContentToProductParser;
-import service.ProductsToFileWriter;
-import service.Report;
+package parser;
+
+import parser.model.Product;
+import parser.service.ContentLoader;
+import parser.service.ContentToProductParser;
+import parser.service.ProductsToFileWriter;
+import parser.service.Report;
 
 import java.io.IOException;
 

@@ -1,6 +1,7 @@
-package service;
+package parser.service;
 
 import org.jsoup.Jsoup;
+
 import java.io.IOException;
 
 public class ContentLoader {

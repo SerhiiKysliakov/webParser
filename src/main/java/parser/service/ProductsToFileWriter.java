@@ -1,6 +1,7 @@
-package service;
+package parser.service;
 
 import com.opencsv.CSVWriter;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;

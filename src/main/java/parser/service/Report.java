@@ -1,6 +1,6 @@
-package service;
+package parser.service;
 
-import model.Product;
+import parser.model.Product;
 
 public class Report {
     public String[][] prepareReport(Product[] products) {
